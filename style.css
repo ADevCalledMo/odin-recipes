@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: whitesmoke;
+}
+
+.container {
+  padding-top: 40px;
+  text-align: center;
+}
+
+.title {
+  letter-spacing: 0.4rem;
+  font-size: 36px;
+  font-weight: bold;
+  color: darkolivegreen;
+  padding-bottom: 50px;
+}
+
+.container h2 {
+  letter-spacing: 0.1rem;
+  font-weight: lighter;
+  padding-bottom: 15px;
+}
+
+.container a {
+  text-decoration: none;
+  color: yellowgreen;
+}
